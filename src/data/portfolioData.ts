@@ -22,7 +22,7 @@ export const PROJECTS_DATA: ProjectDossier[] = [
     statusType: 'progress',
     publishDate: 'September 2026',
     readTime: '6 min read',
-    imageUrl: '',
+    imageUrl: 'src/assets/images/bloomberg_lead_macro_1790446169392.jpg',
     imageCaption: 'The Kairos macro environment integrates multi-asset pricing feeds, central bank balance sheets, and sovereign bond curve metrics into high-density analytical dashboards.',
     liveUrl: 'https://matterr99.github.io/kairos-macro-trading-hub/',
     githubUrl: 'https://github.com/matterr99/kairos-macro-trading-hub',
