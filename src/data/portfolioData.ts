@@ -79,7 +79,7 @@ export const PROJECTS_DATA: ProjectDossier[] = [
     statusType: 'live',
     publishDate: 'August 2026',
     readTime: '4 min read',
-    imageUrl: '/src/assets/images/bloomberg_tennis_analytics_1790446179439.jpg',
+    imageUrl: '/src/assets/image/IMG_5243.jpeg',
     imageCaption: 'Kinematic tracking visualizer highlighting ground reaction force vector transmission through hip-shoulder rotational separation.',
     liveUrl: 'https://matterr99.github.io/Tennis-portfolio/index.html',
     githubUrl: 'https://github.com/matterr99/Tennis-portfolio',
