@@ -22,7 +22,7 @@ export default function App() {
       description:
         'Player development methodologies, kinetic chain efficiency diagnostics, and modern tennis training insights.',
       url: 'https://matterr99.github.io/Tennis-portfolio/index.html',
-      image: '/images/tennis.jpg',
+      image: '/images/IMG_1374.jpeg',
       actionText: 'Open Tennis Portfolio',
     },
     {
@@ -35,7 +35,7 @@ export default function App() {
       description:
         'Cross-asset macro research terminal tracking global liquidity conditions, sovereign yield curves, and central bank balance sheets.',
       url: 'https://matterr99.github.io/kairos-macro-trading-hub/',
-      image: '/images/kairos.jpg',
+      image: '/images/bloomberg_lead_macro_1790446169392.jpg',
       actionText: 'Access Kairos Terminal',
     },
     {
@@ -48,7 +48,7 @@ export default function App() {
       description:
         'Showcase of clean UI/UX architectures, performant reactive state paradigms, custom scripts, and modern web applications.',
       url: 'https://github.com/matterr99',
-      image: '/images/webdev.jpg',
+      image: '/images/IMG_1388.jpeg',
       actionText: 'Explore Repositories',
     },
   ];
